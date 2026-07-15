@@ -7,7 +7,7 @@ function Footer() {
                 <a href="https://www.linkedin.com/in/saraadamscs" target="_blank" rel="noopener noreferrer">My LinkedIn</a> |{" "}
                 <a href="https://github.com/sadamscs" target="_blank" rel="noopener noreferrer">My GitHub</a> |{" "}
                 <a href="mailto:sa.adams.027@gmail.com">My Email</a> |{" "}
-                <a href="portfolio/src/assets/Sara_Resume_6-13-26.pdf"  download="Sara_Adams_Resume.pdf" target="_blank" rel="noopener noreferrer">My Resume</a>
+                <a href="src/assets/Sara_Resume_6-13-26.pdf"  download="Sara_Adams_Resume.pdf" target="_blank" rel="noopener noreferrer">My Resume</a>
             </p>
         </footer>
     );
